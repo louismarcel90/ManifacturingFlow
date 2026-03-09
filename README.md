@@ -4,7 +4,7 @@
 
 ---
 
-## 2. ⚠️ Problems FlowDesk Solves
+## 2. ⚠️ Problems ManifacturingFlow Solves
 
 ---
 
