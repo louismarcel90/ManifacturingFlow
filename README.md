@@ -45,5 +45,5 @@
 
 ## 7. 🏛️ Why ManifacturingFlow Matters
 
-Roadmap, demo, Use Case Security, CI/CD, Observability (...)
+Roadmap, demo, Use Case Security, CI/CD, Observability ()
 
