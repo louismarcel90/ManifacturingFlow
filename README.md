@@ -21,6 +21,7 @@
 
 ## 1. 🧠 What is ManifacturingFlow / Why It Exists
 
+
 ---
 
 ## 2. ⚠️ Problems ManifacturingFlow Solves
@@ -45,5 +46,5 @@
 
 ## 7. 🏛️ Why ManifacturingFlow Matters
 
-Roadmap, demo, Use Case Security, CI/CD, Observability (...)
+Coming soon : Roadmap, demo, Use Case Security, CI/CD, Observability (...)
 
