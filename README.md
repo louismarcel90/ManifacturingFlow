@@ -1,4 +1,4 @@
-# ManifacturingFlow — _Smart Factory Orchestration Platform_
+# ManifacturingFlow — _Assured Industrial Operations Control Platform_
 
 ## 7. 🧰 Technologies Used in Practice
 
