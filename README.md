@@ -17,34 +17,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opentelemetry/opentelemetry-original.svg" width="40" height="40"/>
 </p>
 
----
+> Design Discussion ongoing 
 
-## 1. 🧠 What is ManifacturingFlow / Why It Exists
+![node](https://img.shields.io/badge/node-%3E%3D18-green)
+![license](https://img.shields.io/badge/license-MIT-blue)
+![interface](https://img.shields.io/badge/interface-Web%20App-black)
+![architecture](https://img.shields.io/badge/architecture-Event--Driven-purple)
 
-
----
-
-## 2. ⚠️ Problems ManifacturingFlow Solves
-
----
-
-## 3. 🧪 What ManifacturingFlow Demonstrates
 
 ---
-
-## 4. 🧱 Core Capabilities
-
----
-
-## 5. 📐 Scale & Constraints
-
----
-
-## 6. ⚙️ Key Engineering Features
-
----
-
-## 7. 🏛️ Why ManifacturingFlow Matters
-
-Coming soon : Roadmap, demo, Use Case Security, CI/CD, Observability (...)
-
