@@ -1,4 +1,4 @@
-# ManifacturingFlow — _Assured Industrial Operations Control Platform_
+# ManifacturingFlow — Assured Industrial Operations Control & Reliability System_
 
 ## 7. 🧰 Technologies Used in Practice
 
