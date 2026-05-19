@@ -21,7 +21,7 @@
   </table>
 </p>
 
-> Every industrial operation is observable, resilient, failure-aware, and reliability-assured at system scale
+> Every industrial operation is observable, resilient, failure-aware, and reliability-assured at system scale.
 
 ![node](https://img.shields.io/badge/node-%3E%3D18-green)
 ![license](https://img.shields.io/badge/license-MIT-blue)
