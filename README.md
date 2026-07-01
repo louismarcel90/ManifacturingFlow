@@ -28,6 +28,7 @@
 ![interface](https://img.shields.io/badge/interface-Web%20App-black)
 ![architecture](https://img.shields.io/badge/architecture-Event--Driven-purple)
 
+---
 
 ## 🧠 What is ManufacturingFlow / Why It Exists
 
